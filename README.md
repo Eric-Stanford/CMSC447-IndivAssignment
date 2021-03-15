@@ -30,4 +30,3 @@ navigate to http://localhost:3000 to view the react client side. I was able to g
 However, this client is totally functional in CRUD abilities.
 
 
-If there are any questions or problems, contact me at estanfo1@umbc.edu
