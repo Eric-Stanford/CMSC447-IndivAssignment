@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Edit Student</h1>
+<form method="post">
+    <label for="Student">Name:</label><br>
+    <input type = "text" id="Student" name="Student"><br>
+    <label for="Marks">Student Marks:</label><br>
+    <input type = "number" step = "1" id="Marks" name="Marks"><br>
+    <input type="submit" value = "Submit">
+</form>
+
+{% endblock content %}
